@@ -4,6 +4,7 @@ __pycache__
 myprojectenv
 db.sqlite3
 /static
+myproject/settings.*
 .DS_Store
 polls/*
 
